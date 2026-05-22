@@ -13,7 +13,7 @@
 ## 酒店簡介
 
 ### 昆士蘭酒店（Queensland Hotel Bangkok）
-- **地址**：388 Si-Ayutthaya Road, Ratchatewi, Bangkok 10400
+- **地址**：[388 Si-Ayutthaya Road, Ratchatewi, Bangkok 10400](https://www.google.com/maps/search/?api=1&query=Queensland+Hotel+Bangkok,+388+Si-Ayutthaya+Road,+Ratchatewi,+Bangkok+10400)
 - **入住**：14:00｜**退房**：12:00
 - **房價**：每晚約55-65美元
 - **評分**：Booking.com 8.6 / Agoda 8.6 / TripAdvisor 4.6
@@ -32,14 +32,14 @@
 
 | 時間 | 活動 | 詳情 | 來源 | 信心 |
 |------|------|------|------|------|
-| 13:00 | **抵達素萬那普機場** | 國際線入境，第一航廈 | 機場官方 | 高 |
+| 13:00 | **[抵達素萬那普機場](https://www.google.com/maps/search/?api=1&query=Suvarnabhumi+Airport)** | 國際線入境，第一航廈 | 機場官方 | 高 |
 | 13:00-14:30 | 入境手續與領取行李 | 國際線入境平均需時60-90分鐘 | Reddit旅客回報 | 高 |
-| 14:30-15:15 | **機場快線至帕亚泰站** | 依指示前往B1機場快線。所有班次均為各站停車。 | Thrill Ark 2025 | 高 |
+| 14:30-15:15 | **機場快線至[帕亚泰站](https://www.google.com/maps/search/?api=1&query=Phaya+Thai+Station)** | 依指示前往B1機場快線。所有班次均為各站停車。 | Thrill Ark 2025 | 高 |
 | 15:15-15:45 | 步行至昆士蘭酒店 | 從帕亚泰站2號出口步行約900公尺，沿Si Ayutthaya路向東。 | 酒店官網 | 高 |
 | 15:45-16:00 | 入住、整理行李 | 入住時間為14:00，房間應已準備好。放置行李後稍作休息。 | 酒店官網 | 高 |
-| 16:00-18:00 | **水門市場 + 白金時尚購物中心** | 從酒店步行10分鐘即達。批發服飾市集，記得殺價。白金商場則為有冷氣的室內版本。輕鬆逛，不用趕。 | Reddit、TripAdvisor | 高 |
-| 18:00-18:30 | **BTS至奇隆站** | 帕亚泰BTS → 奇隆站（3站，約7分鐘）。 | BTS官方 | 高 |
-| 18:30-21:00 | **Copper Beyond Buffet**（必吃） | 蓋頌阿瑪琳商場3樓。頂級國際自助：松露湯、澳洲和牛、龍蝦、鵝肝、魚子醬。**強烈建議提前訂位。** | Hungry Hub、TripAdvisor 4.8 | 高 |
+| 16:00-18:00 | **[水門市場](https://www.google.com/maps/search/?api=1&query=Pratunam+Market) + [白金時尚購物中心](https://www.google.com/maps/search/?api=1&query=Platinum+Fashion+Mall)** | 從酒店步行10分鐘即達。批發服飾市集，記得殺價。白金商場則為有冷氣的室內版本。輕鬆逛，不用趕。 | Reddit、TripAdvisor | 高 |
+| 18:00-18:30 | **BTS至[奇隆站](https://www.google.com/maps/search/?api=1&query=Chit+Lom+BTS+Station)** | 帕亚泰BTS → 奇隆站（3站，約7分鐘）。 | BTS官方 | 高 |
+| 18:30-21:00 | **[Copper Beyond Buffet](https://www.google.com/maps/search/?api=1&query=Copper+Beyond+Buffet)（必吃）** | 蓋頌阿瑪琳商場3樓。頂級國際自助：松露湯、澳洲和牛、龍蝦、鵝肝、魚子醬。**強烈建議提前訂位。** | Hungry Hub、TripAdvisor 4.8 | 高 |
 | 21:00-21:30 | **Grab返回酒店** | 固定價格，約80-120泰銖（2.5-4美元），車程約10-15分鐘視交通而定。 | Grab App | 高 |
 
 ### 第一天交通驗證
@@ -69,11 +69,11 @@
 | 時間 | 活動 | 詳情 | 來源 | 信心 |
 |------|------|------|------|------|
 | 08:00-09:00 | 酒店早餐 | 多數訂房含早餐。亞洲及美式自助。慢慢享用。 | 酒店官網 | 高 |
-| 09:00-09:20 | **BTS至蒙奇站** | 帕亚泰 → 蒙奇（7站，約15分鐘）。40泰銖。 | BTS官方 | 高 |
-| 09:30-14:00 | **洽圖洽週末市集**（輕鬆節奏） | 超過15,000個攤位。可從1區（服飾）或26區（植栽擺飾）進入。邊緣有美食區。**慢慢逛，不用趕，可逛4小時以上。** | Reddit、TripAdvisor 18K則評價 | 高 |
+| 09:00-09:20 | **BTS至[蒙奇站](https://www.google.com/maps/search/?api=1&query=Mo+Chit+BTS+Station)** | 帕亚泰 → 蒙奇（7站，約15分鐘）。40泰銖。 | BTS官方 | 高 |
+| 09:30-14:00 | **[洽圖洽週末市集](https://www.google.com/maps/search/?api=1&query=Chatuchak+Weekend+Market)（輕鬆節奏）** | 超過15,000個攤位。可從1區（服飾）或26區（植栽擺飾）進入。邊緣有美食區。**慢慢逛，不用趕，可逛4小時以上。** | Reddit、TripAdvisor 18K則評價 | 高 |
 | 14:00-14:30 | **Grab至奇隆/愛侶灣** | 從洽圖契出發約20分鐘。 | Grab App | 高 |
-| 14:30-15:30 | **BEANS Coffee Roaster**（必吃） | 愛侶灣曼谷G樓，奇隆BTS附近。V60手沖、自家烘焙咖啡豆。放鬆品嚐一杯。約3-6美元/杯。 | beanscoffeeroaster.com、TripAdvisor 5.0 | 高 |
-| 16:00-18:30 | **EmQuartier / Emporium**（指定新商場） | 奇隆BTS → 澎蓬（3站，約7分鐘）。「曼谷最美商場」——瀑布造景、綠建築設計、精品品牌。從容探索。 | 在地導覽、購物部落格 | 高 |
+| 14:30-15:30 | **[BEANS Coffee Roaster](https://www.google.com/maps/search/?api=1&query=BEANS+Coffee+Roaster)（必吃）** | 愛侶灣曼谷G樓，奇隆BTS附近。V60手沖、自家烘焙咖啡豆。放鬆品嚐一杯。約3-6美元/杯。 | beanscoffeeroaster.com、TripAdvisor 5.0 | 高 |
+| 16:00-18:30 | **[EmQuartier](https://www.google.com/maps/search/?api=1&query=EmQuartier) / [Emporium](https://www.google.com/maps/search/?api=1&query=Emporium+Bangkok)（指定新商場）** | 奇隆BTS → 澎蓬（3站，約7分鐘）。「曼谷最美商場」——瀑布造景、綠建築設計、精品品牌。從容探索。 | 在地導覽、購物部落格 | 高 |
 | 18:30-20:00 | EmQuartier內或附近晚餐 | 商場內有多家餐廳選擇：泰式、日式、西式。約10-30美元/人。或至澎蓬附近覓食。 | 在地導覽 | 高 |
 | 20:00-20:30 | **Grab返回酒店** | 澎蓬至水門。約15分鐘，120-180泰銖。 | Grab App | 高 |
 
@@ -106,8 +106,8 @@
 | 時間 | 活動 | 詳情 | 來源 | 信心 |
 |------|------|------|------|------|
 | 08:00-09:00 | 酒店早餐、退房、寄放行李 | 退房時間為12:00。行李可寄放櫃檯。不用趕。 | 酒店官網 | 高 |
-| 09:00-09:15 | **BTS至暹羅站** | 帕亚泰 → 暹羅（2站，約5分鐘）。25泰銖。 | BTS官方 | 高 |
-| 09:15-12:30 | **暹羅百麗宮 + Siam Discovery + CentralWorld** | 三館彼此步行5-10分鐘。暹羅百麗宮（奢華精品）、Siam Discovery（潮流設計——**指定新商場**）、CentralWorld（主流品牌）。從容地最後採買。 | TripAdvisor、Forbes | 高 |
+| 09:00-09:15 | **BTS至[暹羅站](https://www.google.com/maps/search/?api=1&query=Siam+BTS+Station)** | 帕亚泰 → 暹羅（2站，約5分鐘）。25泰銖。 | BTS官方 | 高 |
+| 09:15-12:30 | **[暹羅百麗宮](https://www.google.com/maps/search/?api=1&query=Siam+Paragon) + [Siam Discovery](https://www.google.com/maps/search/?api=1&query=Siam+Discovery) + [CentralWorld](https://www.google.com/maps/search/?api=1&query=CentralWorld+Bangkok)** | 三館彼此步行5-10分鐘。暹羅百麗宮（奢華精品）、Siam Discovery（潮流設計——**指定新商場**）、CentralWorld（主流品牌）。從容地最後採買。 | TripAdvisor、Forbes | 高 |
 | 12:30-13:30 | 暹羅附近午餐 | 暹羅百麗宮美食街（3-8美元）或附近餐廳。 | — | 高 |
 | 13:30-14:00 | 返回酒店取行李 | BTS回帕亚泰。如帶行李較多可改搭Grab。 | BTS / Grab | 高 |
 | 14:00-14:30 | **機場快線至素萬那普** | 步行至帕亚泰站。30分鐘直達機場。45泰銖。 | 機場快線官方 | 高 |
